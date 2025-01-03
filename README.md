@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ramseyhufford
 - 👀 I’m interested in Learning and Development, and teaching myself full-stack web development through The Odin Project and other free online resources!
 - 🌱 I’m currently learning HTML, CSS, and Javascript.
-- 💞️ I’m looking to collaborate on anything to expand my skillset and help with my portfolio to get a job!
 - 📫 Reach me at ramseyhufford@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make coffee pour-over sets at my local pottery studio!
